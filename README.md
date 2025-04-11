@@ -24,7 +24,7 @@ Installation
 ============
 1. Clone The Repository:
 ```
-
+https://github.com/TGvenomYT/Voting-software
 ```
 2. Create a Virtual environment
 
