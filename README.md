@@ -17,8 +17,45 @@ NOTE:
 
 Project Structure
 =================
-
-Start => User Registration => Authenticate User => Display => Voting Options => Cast Vote => Encrypt Vote (using cryptography) => Store Encrypted Vote => Count Votes => Display Results => End
+```
+Start 
+|
+V
+User 
+|
+V
+Registration 
+|
+V
+Authenticate 
+|
+V
+User 
+|
+V
+Display 
+|
+V
+Voting Options
+|
+V
+Cast Vote
+|
+V
+Encrypt Vote (using cryptography) 
+|
+V
+Store Encrypted Vote 
+|
+V
+Count Votes 
+|
+V
+Display Results 
+|
+V
+End
+```
 
 Installation 
 ============
